@@ -109,6 +109,7 @@ venv.bak/
 *.sqlite
 *.json
 *.pkl
+*.db
 
 # OS generated files 
 .DS_Store
