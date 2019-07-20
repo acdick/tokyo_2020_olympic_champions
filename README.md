@@ -16,7 +16,7 @@ SPORTS
 ## Data Products
 PANDAS | SQL | SQLITE3
 
-**[Athletes and Events](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)**
+**[Athletes and Event Results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)**
 * ID - Unique number for each athlete
 * Name - Athlete's name
 * Sex - M or F
