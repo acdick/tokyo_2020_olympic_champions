@@ -1,6 +1,6 @@
 MULTILINEAR REGRESSION
 # The Tokyo 2020 Olympic Champions
-PREDICTING THE MEDAL TABLE OF THE SUMMER GAMES
+PREDICTING THE MEDAL TABLE OF THE SUMMER OLYMPIC GAMES
 
 ## Repository Contents
 
@@ -12,6 +12,19 @@ PREDICTING THE MEDAL TABLE OF THE SUMMER GAMES
 
 ## Project Features
 SPORTS
+
+![Tokyo 2020 Summer Olympic Games](/img/Tokyo_2020.png)
+
+- [x] **Linear Relationship**<br>
+Linearity assumptions requires that there should be a linear relationship between the response variable (Y) and predictor (X).
+- [x] **Multivariate Normality**<br>
+Comparing two probability distributions by plotting their quantiles against each other.
+- [x] **Multicollinearity**<br>
+Little or no multicollinearity.
+- [x] **Auto-correlation**<br>
+No auto-correlation.
+- [x] **Heteroscedasticity**<br>
+The variability of a variable is unequal across the range of values of a second variable that predicts it.
 
 ## Data Products
 PANDAS | SQL | SQLITE3
