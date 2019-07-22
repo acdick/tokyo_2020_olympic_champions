@@ -11,9 +11,11 @@ PREDICTING THE MEDAL TABLE OF THE SUMMER OLYMPIC GAMES
 * [Contribute](#contribute)
 
 ## Project Features
-SPORTS
+SPORTS | MACHINE LEARNING
 
-![Tokyo 2020 Summer Olympic Games](/img/Tokyo_2020.png)
+<p align="center">
+  <img src="/img/Tokyo_2020.png" width="600" title="Tokyo 2020 Summer Olympic Games">
+</p>
 
 - [x] **Linear Relationship**<br>
 Linearity assumptions requires that there should be a linear relationship between the response variable (Y) and predictor (X).
@@ -59,6 +61,7 @@ PANDAS | SQL | SQLITE3
 * [Scholar](https://scholar.google.com/citations?user=eMO88ogAAAAJ&hl=en)
 
 **Acknowledgements**
+* Logo of the Tokyo 2020 Summer Olympic Games by [The Tokyo Organising Committee of the Olympic and Paralympic Games](https://tokyo2020.org/jp/games/plan/data/tokyo2020-guidebook-en.pdf)
 * Dataset by [Randi H Griffin](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 **License**
