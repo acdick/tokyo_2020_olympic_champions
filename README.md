@@ -1,4 +1,4 @@
-MULTILINEAR REGRESSION
+REGRESSION MODELING
 # The Tokyo 2020 Olympic Champions
 PREDICTING THE MEDAL TABLE OF THE SUMMER GAMES
 
@@ -18,6 +18,7 @@ Randi Griffin posted a complete Kaggle dataset containing the records of each at
 
 * [Project Features](#project-features)
 * [Data Products](#data-products)
+* [Source Code](#source-code)
 * [Output Results](#output-results)
 * [Contribute](#contribute)
 
@@ -30,6 +31,10 @@ SPORTS | MACHINE LEARNING
 
 ## Data Products
 PANDAS
+
+Two CSV files are available containing athlete results and Olympic country identifiers (NOCs).
+
+271,116 athlete records contain the following data:
 
 **[Athletes and Event Results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)**
 * ID - Unique number for each athlete
@@ -47,6 +52,8 @@ PANDAS
 * Sport - Sport
 * Event - Event
 * Medal - Gold, Silver, Bronze, or NA
+
+## Source Code
 
 ## Output Results
 
