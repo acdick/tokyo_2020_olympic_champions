@@ -1,6 +1,6 @@
 matplotlib==3.0.2
 missingno==0.4.1
-numpy==1.15.4
+numpy==1.22.0
 pandas==0.23.4
 plotly==3.9.0
 scikit-image==0.14.1
